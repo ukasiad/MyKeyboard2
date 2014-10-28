@@ -1,3 +1,3 @@
-Warning[2058] D:\project2\personal\MyKeyboard\type2\publish\firmware\keyboard_ver001\Keyboard.c 91 : call of function without prototype
-Warning[2054] D:\project2\personal\MyKeyboard\type2\publish\firmware\keyboard_ver001\Keyboard.c 116 : suspicious pointer conversion
-Warning[2066] D:\project2\personal\MyKeyboard\type2\publish\firmware\keyboard_ver001\Keyboard.c 118 : type qualifier mismatch in assignment
+Warning[2058] C:\projects\MyKeyboard2\firmware\keyboard_ver001\Keyboard.c 91 : call of function without prototype
+Warning[2054] C:\projects\MyKeyboard2\firmware\keyboard_ver001\Keyboard.c 116 : suspicious pointer conversion
+Warning[2066] C:\projects\MyKeyboard2\firmware\keyboard_ver001\Keyboard.c 118 : type qualifier mismatch in assignment

@@ -1,2 +1,2 @@
-Warning[2054] D:\project2\personal\MyKeyboard\type2\publish\firmware\keyboard_ver001\type2_button.c 161 : suspicious pointer conversion
-Warning[2054] D:\project2\personal\MyKeyboard\type2\publish\firmware\keyboard_ver001\type2_button.c 289 : suspicious pointer conversion
+Warning[2054] C:\projects\MyKeyboard2\firmware\keyboard_ver001\type2_button.c 161 : suspicious pointer conversion
+Warning[2054] C:\projects\MyKeyboard2\firmware\keyboard_ver001\type2_button.c 289 : suspicious pointer conversion
